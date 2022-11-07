@@ -1,0 +1,12 @@
+.discount {
+    background-color: var(--secondary);
+    color: var(--white);
+    height: 20px;
+    width: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

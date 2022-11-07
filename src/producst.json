@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Camisa",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Camisa",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Teclado",
+        "price": 80,
+        "discount":15,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Monitor",
+        "price": 80,
+        "discount": 15,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Camisa",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Gorra",
+        "price": 30,
+        "discount": 10,
+        "url": "https://picsum.photos/180"
+    }, 
+    {
+        "name": "Pantalon",
+        "price": 125,
+        "discount":70,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Reloj",
+        "price": 300,
+        "discount": 50,
+        "url": "https://picsum.photos/180"
+    }
+]
